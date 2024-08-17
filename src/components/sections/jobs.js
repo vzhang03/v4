@@ -7,6 +7,8 @@ import { KEY_CODES } from '@utils';
 import sr from '@utils/sr';
 import { usePrefersReducedMotion } from '@hooks';
 
+// lods from content but about jobs
+
 const StyledJobsSection = styled.section`
   max-width: 700px;
 

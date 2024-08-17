@@ -4,6 +4,8 @@ import { srConfig, email } from '@config';
 import sr from '@utils/sr';
 import { usePrefersReducedMotion } from '@hooks';
 
+// last page
+
 const StyledContactSection = styled.section`
   max-width: 600px;
   margin: 0 auto 100px;

@@ -7,6 +7,8 @@ import { srConfig } from '@config';
 import { Icon } from '@components/icons';
 import { usePrefersReducedMotion } from '@hooks';
 
+// somethings i ubilt
+
 const StyledProjectsGrid = styled.ul`
   ${({ theme }) => theme.mixins.resetList};
 
